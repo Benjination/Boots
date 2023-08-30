@@ -1,3 +1,4 @@
+//Benjamin Niccum 1002111609
 //package RollInitiativeExample;
 
 import java.util.Arrays;
